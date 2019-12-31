@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     boolean isNext = false;
     private Spinner cities;
     private Spinner areas;
+    String abc;
     private ArrayList<String> data;
     private ArrayAdapter<String> adapter;
 
